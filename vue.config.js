@@ -6,6 +6,8 @@ function resolve(dir) {
 }
 
 module.exports = {
+  publicPath: "./",
+  assetsDir: "static",
   chainWebpack(config) {
     // set svg-sprite-loader
     config.module

@@ -4,7 +4,7 @@
 
 ### demo 地址
 
-[demo 演示地址](https://Haoz03.github.io/vue-pay-layer/dist/#/)
+[demo 演示地址](https://Haoz03.github.io/vue-pay-layer/dist/#/home)
 
 ### 动态图演示
 
