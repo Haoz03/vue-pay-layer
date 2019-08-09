@@ -5,7 +5,7 @@ import store from "./store";
 
 import "./icons";
 // 引入插件
-import payLayer from "./lib/vue-pay-layer/lib";
+import payLayer from "vue-pay-layer";
 // 使用插件
 Vue.use(payLayer);
 
